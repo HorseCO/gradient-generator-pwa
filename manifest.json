@@ -34,7 +34,7 @@
             "src": "./img/maskable.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purporse": "maskable"
+            "purporse": "any maskable"
         },
         {
             "src": "./img/icon256.png",
